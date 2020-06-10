@@ -3232,12 +3232,12 @@ button.close {
 .btn.disabled,
 .btn[disabled] {
   color: #333333;
-  background-color: #58d879;
+  background-color: #ffffff;
 }
 
 .btn:active,
 .btn.active {
-  background-color: #58d879 \9;
+  background-color: #ffffff \9;
 }
 
 .btn:first-child {
