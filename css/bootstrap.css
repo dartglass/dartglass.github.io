@@ -3208,7 +3208,7 @@ button.close {
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
   vertical-align: middle;
   cursor: pointer;
-  background-color: #58d879;
+  background-color: #ffffff;
   border: 1px solid #cccccc;
   *border: 0;
   border-color: #e6e6e6 #e6e6e6 #bfbfbf;
@@ -3352,8 +3352,8 @@ input[type="button"].btn-block {
 .btn-primary {
   color: #000000;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-  background-color: #58d879;
-  *background-color: #58d879;
+  background-color: #ffffff;
+  *background-color: #ffffff;
   border-color: #0044cc #0044cc #002a80;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0088cc', endColorstr='#ff0044cc', GradientType=0);
